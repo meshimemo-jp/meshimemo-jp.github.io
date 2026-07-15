@@ -1,4 +1,8 @@
 {
+  "config": {
+    "photoAutoFetch": true,
+    "minVersion": "0.0.0"
+  },
   "items": [
     {
       "id": "2026-06-02-welcome",
