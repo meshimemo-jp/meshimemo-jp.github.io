@@ -4,7 +4,7 @@
     "minVersion": "0.0.0",
     "sharePages": true,
     "maxTotalPlaces": 1500,
-    "freeLimit": 2
+    "freeLimit": 30
   },
   "items": [
     {
